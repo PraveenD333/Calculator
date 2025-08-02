@@ -1,5 +1,5 @@
 import React from 'react'
-import Calculator from './Components/Calculator'
+// import Calculator from './Components/Calculator'
 import Ok from './Components/ok'
 
 const App = () => {
