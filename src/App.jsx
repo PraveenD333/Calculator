@@ -1,6 +1,6 @@
 import React from 'react'
 // import Calculator from './Components/Calculator'
-import Ok from './Components/ok'
+import Ok from './Components/Ok'
 
 const App = () => {
   return (
